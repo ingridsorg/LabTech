@@ -54,6 +54,8 @@ Je t’ai donné quelques exemples de bonnes pratiques en UX writing. J’ai cho
 https://lmsanchez.medium.com/what-is-ux-writing-1eb71b0f0606 
 https://medium.com/nyc-design/ux-writing-what-is-it-and-why-is-it-so-important-21b314e005a1 
 https://medium.com/@Sianiro/ux-writer-lart-des-mots-16a70017e9fd 
-https://medium.com/the-ab-tasty-tech-blog/ux-writing-why-is-it-so-important-aaea8f08f6cf 
+https://medium.com/the-ab-tasty-tech-blog/ux-writing-why-is-it-so-important-aaea8f08f6cf
+https://xd.adobe.com/ideas/process/information-architecture/ux-writing-guidelines/ 
+ 
 
 
