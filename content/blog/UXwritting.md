@@ -39,7 +39,7 @@ Pour nous le plus important est de pouvoir guider l’utilisateur·rice à trouv
 
 La plupart des utilisateur·rices ne lisent pas les bloques des textes, ils/elles les scannent. Afin de faire passer ton message, réduit ton texte le plus possible. Tu as meilleurs temps de fournir des segments de texte qui se concentrent sur un nombre limité de concepts à la fois.
 
-## **Fais attention aux priorités** 
+## **5 Fais attention aux priorités** 
 
 Il est connu que les utilisateurs·rices lissent l’écran en suivant une forme de F. D’abord la première ligne, la deuxième ligne, puis ils/elles commencent à sauter la page en retenant juste le premier ou le deuxième mot de chaque phrase. Pour cette raison, il est important que ton texte soit non seulement concis, mais bien structuré. Ainsi tu pourras t’assurer que les yeux des utilisateurs·rices suivent uniquement les mots importants. 
 
