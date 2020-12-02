@@ -5,7 +5,7 @@ slug: "UXcovid"
 description: ""
 keywords: []
 draft: false
-tags: [UX, recherche, COVID-19]
+tags: [UX, recherche, COVID-19, etude, utilisateur, experience, comportement, test, mesurer, digital, application,technique, medium, uxdesign, distance sociale, asctuces, pratiques, Miro, Googleforms, interaction]
 math: false
 toc: true
 ---
@@ -14,7 +14,7 @@ Contrairement à ce que l’on croit, la crise sanitaire a eu des forts impacts 
 
 Au-delà du fait d’avoir changé notre manière de travailler, celle-ci a eu également une forte influence sur le comportement des individus. Il est important maintenant de comprendre comment leurs besoins évoluent et comment les produits numériques peuvent efficacement répondre et aider les utilisateurs·rices à surmonter la crise du COVID-19. 
 
-Pour ces raisons, il est essentiel de mettre un accent sur la recherche UX.  Mais comment faire pour continuer durant ces temps de distance social ? Comment étudier le comportement des utilisateurs·rices si on ne peut pas les voir ? J’ai eu l’opportunité de lire plusieurs articles qui nous présentent quelques astuces et nouvelles pratiques pour faire de la recherche depuis chez nous. 
+Pour ces raisons, il est essentiel de mettre un accent sur la recherche UX.  Mais comment faire pour continuer durant ces temps de distance sociale ? Comment étudier le comportement des utilisateurs·rices si on ne peut pas les voir ? J’ai eu l’opportunité de lire plusieurs articles qui nous présentent quelques astuces et nouvelles pratiques pour faire de la recherche depuis chez nous. 
 
 ## **Les études à distance**
 
@@ -28,7 +28,7 @@ Voici quelques outils conseillés pour réaliser des études à distance:
 
 ## **Partage d'écran sur les applications d'appel vidéo**
 
-Aussi simple que cela peut paraitre, tu pourraS planifier un appel avec le/la participant·e via Zoom ou Google Meet et lui demander de partager son écran. Ainsi, tu pourras le/la observer pendant qu'il/elle exécute la tâche désignée. Tu peux également partager l'appel afin que les parties prenantes puissent regarder la session, au fur et à mesure. N’oublie pas d’enregistrer les appels !
+Aussi simple que cela peut paraitre, tu pourras planifier un appel avec le/la participant·e via Zoom ou Google Meet et lui demander de partager son écran. Ainsi, tu pourras le/la observer pendant qu'il/elle exécute la tâche désignée. Tu peux également partager l'appel afin que les parties prenantes puissent regarder la session, au fur et à mesure. N’oublie pas d’enregistrer les appels !
 
 ## **Divers méthodes d’essai et tests rapides** 
 
@@ -54,8 +54,8 @@ Il est presque impossible de prédire comment cette crise sanitaire va continuer
 
 **Sources**
  
-Medium, https://medium.com/@antoninvandevelde/covid-tu-ne-memp%C3%AAcheras-pas-de-progresser-e89c5ec918d4*
+Medium, https://medium.com/@antoninvandevelde/covid-tu-ne-memp%C3%AAcheras-pas-de-progresser-e89c5ec918d4
 
-*Source 2: https://uxdesign.cc/crisis-responsive-ux-research-f60e12a8b9*
+UXDesign, https://uxdesign.cc/crisis-responsive-ux-research-f60e12a8b9
 
-*Source 3: https://medium.com/design-at-flipkart/research-in-the-times-of-social-distancing-9eb8fb331ba8*
+Medium, https://medium.com/design-at-flipkart/research-in-the-times-of-social-distancing-9eb8fb331ba8
